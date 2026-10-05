@@ -1,3 +1,31 @@
+# Tulas International School Website
+
+A responsive school website built using React.js. The project provides a clean and user-friendly interface to showcase the school's information, programs, activities, and other details.
+
+### 🚀 Live Demo
+
+https://school-project-three-ochre.vercel.app/
+
+### 🛠️ Technologies Used
+
+* React.js
+* JavaScript
+* HTML
+* CSS
+* Responsive Web Design
+
+### ✨ Features
+
+* Responsive design
+* School information sections
+* Navigation menu
+* Interactive and reusable React components
+* Mobile-friendly layout
+
+### 📂 Project
+
+GitHub Repository: https://github.com/sowjanya2002-design/school-project
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
